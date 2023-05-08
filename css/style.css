@@ -761,4 +761,6 @@ body {
   color: white;
   margin-block-start: 0px;
   margin-block-end: 50px;
+  font-size: 13px;
+  font-weight: 600;
 }
